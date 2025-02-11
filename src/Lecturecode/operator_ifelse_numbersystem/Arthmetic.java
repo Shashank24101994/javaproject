@@ -19,7 +19,7 @@ public class Arthmetic
 //        System.out.println(x/y);
 //        System.out.println(x%y);
 
-        int a=5;
+        int a=9;
         int b=10;
         int c= a/b;
         System.out.println(c);
